@@ -12,7 +12,7 @@ function App() {
       <div className='profile-card'>
         <PatternCard />
         <ImageVictor />
-        <NameAndAgeUser name={'Victor Creast'} age={'26'} />
+        <NameAndAgeUser name={'Victor Crest'} age={'26'} />
         <City city='London' />
         <Divider />
         <div className='description'>
